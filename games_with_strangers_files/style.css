@@ -245,7 +245,7 @@ a:hover { color: #FFF; background-color: #065b57; }
 }
 #play-button a {
 	display: block;
-	background: url('/images/btn-play.png') no-repeat;
+	background: url('./games_with_strangers_files/btn-play.png') no-repeat;
 	width: 198px;
 	height: 198px;
 }
