@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background: url(../img/background.png) no-repeat bottom center fixed;
+    background: url(/Hang_files/background.png) no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
