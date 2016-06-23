@@ -214,7 +214,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 body{
 	font-family: 'Quicksand', sans-serif;
 	color: #fff;
-	background: #1dbdbd url('./games_with_strangers_files/images/background.jpg') top center no-repeat; ;
+	background: #1dbdbd url('/games_with_strangers_files/images/background.jpg') top center no-repeat; ;
 }
 
 a:hover { color: #FFF; background-color: #065b57; }
@@ -245,12 +245,12 @@ a:hover { color: #FFF; background-color: #065b57; }
 }
 #play-button a {
 	display: block;
-	background: url('./games_with_strangers_files/btn-play.png') no-repeat;
+	background: url('/games_with_strangers_files/btn-play.png') no-repeat;
 	width: 198px;
 	height: 198px;
 }
 #play-button a:hover{
-	background: url('./games_with_strangers_files/images/btn-play-hover.png') no-repeat;
+	background: url('/games_with_strangers_files/images/btn-play-hover.png') no-repeat;
 }
 
 
@@ -286,10 +286,10 @@ footer { margin: 0 auto 30px auto; width: 650px;}
 }
 
 .twitter a {
-	background-image: url('./games_with_strangers_files/images/twitter-icon.png');
+	background-image: url('/games_with_strangers_files/images/twitter-icon.png');
 }
 .email a {
-	background-image: url('./games_with_strangers_files/images/email-icon.png');
+	background-image: url('/games_with_strangers_files/images/email-icon.png');
 	width: 160px;
 }
 
